@@ -1,4 +1,9 @@
 # EmCommDat
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YD1RUH/EmCommDat/main/Picture/logo.png" alt="Logo EmCommDat" width="200">
+</p>
+
 ## Android Audio Modem for data communication
 Aplikasi Android untuk **mengirim pesan teks dan berbagi posisi lewat radio, tanpa internet dan tanpa pulsa**. Pesan diubah menjadi nada audio (modulasi MFSK), dikirim lewat HT atau rig, lalu diterjemahkan kembali menjadi teks oleh HP penerima.
 
@@ -30,11 +35,11 @@ Beberapa contoh penggunaan:
 
 | Gambar | Deskripsi |
 |---|---|
-| ![Compose](LINK_GAMBAR_COMPOSE) | **Compose** – tulis pesan (From, To, Message), pilih mode, lalu tekan Send. Estimasi lama pengiriman ditampilkan. Tersedia tombol Paste, Clear, dan Loopback untuk uji. |
-| ![Monitor RX](LINK_GAMBAR_MONITOR) | **Monitor RX** – tekan Start RX untuk mendengarkan. Spektrum menunjukkan sinyal yang masuk, dan hasil terjemahan tampil realtime di bawahnya. |
-| ![Inbox](LINK_GAMBAR_INBOX) | **Inbox** – daftar pesan masuk lengkap dengan waktu terima. Ketuk untuk membaca isinya. |
-| ![Position](LINK_GAMBAR_POSITION) | **Position** – atur beacon (durasi dan ID callsign), pilih station dari daftar, dan mulai tracking. |
-| ![Radar](LINK_GAMBAR_RADAR) | **Radar** – pusat adalah posisi Anda. Garis menunjuk ke station terpilih beserta jaraknya (M atau KM). Bila belum ada station dipilih, tujuan bawaannya adalah Monumen Nasional, Jakarta. |
+| <img src="https://raw.githubusercontent.com/YD1RUH/EmCommDat/main/Picture/compose.jpeg" alt="Compose" width="250"> | **Compose** – tulis pesan (From, To, Message), pilih mode, lalu tekan Send. Estimasi lama pengiriman ditampilkan. Tersedia tombol Paste, Clear, dan Loopback untuk uji. |
+| <img src="https://raw.githubusercontent.com/YD1RUH/EmCommDat/main/Picture/rx.jpeg" alt="Monitor RX" width="250"> | **Monitor RX** – tekan Start RX untuk mendengarkan. Spektrum menunjukkan sinyal yang masuk, dan hasil terjemahan tampil realtime di bawahnya. |
+| <img src="https://raw.githubusercontent.com/YD1RUH/EmCommDat/main/Picture/inbox_detail.jpeg" alt="Inbox" width="250"> | **Inbox** – daftar pesan masuk lengkap dengan waktu terima. Ketuk untuk membaca isinya. |
+| <img src="https://raw.githubusercontent.com/YD1RUH/EmCommDat/main/Picture/beacon_radar.jpeg" alt="Position" width="250"> | **Position** – atur beacon (durasi dan ID callsign), pilih station dari daftar, dan mulai tracking. |
+| <img src="https://raw.githubusercontent.com/YD1RUH/EmCommDat/main/Picture/beacon_radar.jpeg" alt="Radar" width="250"> | **Radar** – pusat adalah posisi Anda. Garis menunjuk ke station terpilih beserta jaraknya (M atau KM). Bila belum ada station dipilih, tujuan bawaannya adalah Monumen Nasional, Jakarta. |
 
 ## Persyaratan
 
