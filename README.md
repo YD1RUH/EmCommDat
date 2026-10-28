@@ -134,6 +134,10 @@ Tips: uji dulu dengan **Loopback** untuk memastikan aplikasi berfungsi, lalu uji
 - Beacon **menyiarkan lokasi Anda ke siapa pun** yang bisa mendengar frekuensi tersebut. Gunakan dengan bijak.
 - Ini adalah proyek eksperimen dan tidak ada jaminan apa pun. Jangan jadikan satu-satunya alat komunikasi pada situasi yang menyangkut keselamatan.
 
+## Download APK
+
+- Click EmCommDat.apk: [Download](https://github.com/YD1RUH/EmCommDat/releases/download/Beta-V1.0.0/EmCommDat.apk) 
+
 ## Lisensi dan Kredit
 
 - Lisensi proyek: (lisensi MIT)
